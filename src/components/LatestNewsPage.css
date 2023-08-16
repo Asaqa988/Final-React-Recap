@@ -1,0 +1,13 @@
+.container {
+    max-width: 800px;
+  }
+  
+  .news-item {
+    margin-bottom: 2rem;
+  }
+  
+  .news-date {
+    font-size: 0.9rem;
+    color: #888;
+  }
+  
